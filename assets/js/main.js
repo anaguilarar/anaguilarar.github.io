@@ -63,6 +63,7 @@
 				);
 			});
 
+/*
 		// Footer.
 			skel.on('+medium', function() {
 				$footer.insertAfter($main);
@@ -71,6 +72,7 @@
 			skel.on('-medium !medium', function() {
 				$footer.appendTo($header);
 			});
+*/
 
 		// Header.
 
